@@ -1,1 +1,1 @@
-# datawarehouse-premises
+# data warehouse-cloud
